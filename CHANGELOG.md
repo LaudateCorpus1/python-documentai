@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/googleapis/python-documentai/compare/v1.2.1...v1.3.0) (2022-01-29)
+
+
+### Features
+
+* add api key support ([#267](https://github.com/googleapis/python-documentai/issues/267)) ([061eb45](https://github.com/googleapis/python-documentai/commit/061eb454d3fafa405f90d6b73240b4c130db845f))
+* add question_id field in ReviewDocumentOperationMetadata ([#269](https://github.com/googleapis/python-documentai/issues/269)) ([1c61b73](https://github.com/googleapis/python-documentai/commit/1c61b737ce02185bad04c7bd58c12e6772b8569f))
+
 ### [1.2.1](https://github.com/googleapis/python-documentai/compare/v1.2.0...v1.2.1) (2022-01-17)
 
 
